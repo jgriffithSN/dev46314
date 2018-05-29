@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><unload unload_date="2018-05-29 02:26:03"><sys_remote_update_set action="INSERT_OR_UPDATE"><application display_value="Global">global</application><application_name>Global</application_name><application_scope>global</application_scope><application_version/><collisions/><commit_date/><deleted/><description>A utility to assist with reviewing skipped updates following an instance upgrade.
+
+--  New in v2.0  --
+
+- Progress tracker during log re-build
+- Incremental re-build; can be resumed if it does not complete for any reason
+- Retrieve update information from previous upgrades
+- Retrieve update information from other instances (instances need Upgrade Assistant installed)
+- New rule to interpret retrieved information
+- Ability to re-run build or re-apply rules for individual log entries
+- Improved logging and performance data
+- Help updates and other fixes
+</description><inserted/><name>[ws] Upgrade Assistant  v2.0</name><origin_sys_id/><parent/><release_date/><remote_base_update_set/><remote_parent_id/><remote_sys_id>04353eea4f9a1300b204b5e18110c78b</remote_sys_id><state>loaded</state><summary/><sys_class_name>sys_remote_update_set</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2018-05-29 02:26:02</sys_created_on><sys_id>34f5ba2e4f9a1300b204b5e18110c7bf</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2018-05-29 02:26:02</sys_updated_on><update_set/><update_source/><updated/></sys_remote_update_set></unload>
